@@ -3,7 +3,7 @@ A simple python webscrapping tool with bs4 that navigates to sub pages. It navig
 
 ## Features
 
-- Navigates through each company URL on anapp.org.br and extracts relevant information.
+- Navigates through each company URL on the URL and extracts relevant information.
 - Collects data such as company name, address, city, state, postal code, phone number, email, and website.
 - Saves the extracted data to a CSV file for further analysis.
 
@@ -22,7 +22,7 @@ A simple python webscrapping tool with bs4 that navigates to sub pages. It navig
 ## Usage
 
 1. Open the Python script `anpp-lojas.py` in a text editor.
-2. Update the `url_base` variable in the code with the URL of the anapp.org.br page containing the list of companies.
+2. Update the `url_base` variable in the code with the URL of the company page containing the list of companies.
 3. Run the Python script by executing the following command:
 
 **$ python anpp-lojas.py**
