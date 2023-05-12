@@ -1,5 +1,6 @@
 # web-scrapper-w-navigation
 A simple python webscrapping tool with bs4 that navigates to sub pages. It navigates through each company URL and collects specific information, saving it to a CSV file. This can be useful for gathering data for research or analysis purposes.
+It pulled next to 200 company's data in less than two minutes.
 
 ## Features
 
