@@ -21,17 +21,17 @@ A simple python webscrapping tool with bs4 that navigates to sub pages. It navig
 
 ## Usage
 
-1. Open the Python script `anpp-lojas.py` in a text editor.
+1. Open the Python script in a text editor.
 2. Update the `url_base` variable in the code with the URL of the company page containing the list of companies.
 3. Run the Python script by executing the following command:
 
-**$ python anpp-lojas.py**
+**$ python crawler.py**
 
 4. The script will start scraping the company data by navigating through each company URL and saving it to a CSV file named `company_data.csv`.
 
 ## Customization
 
-- You can modify the CSV file name and the specific fields being extracted by modifying the code in `anpp-lojas.py`.
+- You can modify the CSV file name and the specific fields being extracted by modifying the code in `crawler.py`.
 
 ## Contributing
 
